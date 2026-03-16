@@ -1,6 +1,7 @@
 # Inception of things
 
 The goal of the project is to start dabbling with Kubernetes. We will get to familiarize ourselves with the basics of provisioning and CI/CD, and also self-hosting for the bonus part.
+This is a group project, and this here repository is [a fork](https://github.com/Silveratis0922/Inception_of_Things) from the original group project.
 
 
 ## Prerequisite
